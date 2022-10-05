@@ -8,3 +8,4 @@ test3.o : test3.c b.h c.h
 	gcc -c test3.c
 clean :
 	rm -rf test *.o
+	//makefile
